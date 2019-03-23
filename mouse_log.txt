@@ -1,0 +1,171 @@
+2019-03-23 18:12:47,186: Mouse clicked at (185, 416) with Button.left
+2019-03-23 18:12:49,249: Mouse clicked at (913, 524) with Button.right
+2019-03-23 18:12:50,331: Mouse clicked at (785, 482) with Button.left
+2019-03-23 18:12:52,826: 'a' released
+2019-03-23 18:12:58,390: Mouse clicked at (899, 900) with Button.left
+2019-03-23 18:13:07,063: Mouse clicked at (513, 110) with Button.left
+2019-03-23 18:13:11,272: Mouse clicked at (783, 383) with Button.left
+2019-03-23 18:13:14,305: Mouse clicked at (983, 379) with Button.left
+2019-03-23 18:13:30,246: Mouse clicked at (1042, 462) with Button.left
+2019-03-23 18:13:32,062: Mouse clicked at (868, 883) with Button.left
+2019-03-23 18:13:36,735: Mouse clicked at (612, 103) with Button.left
+2019-03-23 18:13:38,859: Mouse clicked at (706, 432) with Button.left
+2019-03-23 18:13:39,381: Mouse clicked at (706, 432) with Button.right
+2019-03-23 18:13:40,139: Mouse clicked at (551, 451) with Button.left
+2019-03-23 18:13:41,383: Mouse clicked at (824, 880) with Button.left
+2019-03-23 18:13:42,984: 'a' released
+2019-03-23 18:13:43,969: 's' released
+2019-03-23 18:13:44,299: 'd' released
+2019-03-23 18:13:44,714: 'c' released
+2019-03-23 18:13:45,456: 'v' released
+2019-03-23 18:13:46,226: 'b' released
+2019-03-23 18:13:47,045: 'f' released
+2019-03-23 18:13:47,089: 'g' released
+2019-03-23 18:13:47,907: 'a' released
+2019-03-23 18:13:48,279: 's' released
+2019-03-23 18:14:02,168: Mouse clicked at (519, 99) with Button.left
+2019-03-23 18:14:21,645: Mouse clicked at (681, 655) with Button.left
+2019-03-23 18:14:23,973: Key.backspace released
+2019-03-23 18:14:24,479: Key.backspace released
+2019-03-23 18:14:25,549: Key.backspace released
+2019-03-23 18:14:28,067: Mouse clicked at (549, 309) with Button.left
+2019-03-23 18:14:30,970: Mouse clicked at (666, 440) with Button.left
+2019-03-23 18:14:32,693: Mouse clicked at (556, 396) with Button.left
+2019-03-23 18:14:34,446: 'g' released
+2019-03-23 18:14:34,626: 'o' released
+2019-03-23 18:14:34,844: 'l' released
+2019-03-23 18:14:35,383: Key.backspace released
+2019-03-23 18:14:35,548: Key.backspace released
+2019-03-23 18:14:35,966: 'l' released
+2019-03-23 18:14:36,416: 'o' released
+2019-03-23 18:14:36,902: 'b' released
+2019-03-23 18:14:37,072: 'a' released
+2019-03-23 18:14:37,214: 'l' released
+2019-03-23 18:14:38,487: Key.space released
+2019-03-23 18:14:39,265: Mouse clicked at (688, 829) with Button.left
+2019-03-23 18:14:39,767: 'c' released
+2019-03-23 18:14:39,850: Key.ctrl released
+2019-03-23 18:14:42,161: Key.backspace released
+2019-03-23 18:14:42,331: Key.backspace released
+2019-03-23 18:14:42,500: Key.backspace released
+2019-03-23 18:14:42,994: Key.backspace released
+2019-03-23 18:14:43,369: Key.enter released
+2019-03-23 18:14:44,048: 'c' released
+2019-03-23 18:14:44,133: 'o' released
+2019-03-23 18:14:44,368: 'n' released
+2019-03-23 18:14:44,473: 't' released
+2019-03-23 18:14:44,575: 'a' released
+2019-03-23 18:14:44,708: 'd' released
+2019-03-23 18:14:44,791: 'o' released
+2019-03-23 18:14:44,981: 'r' released
+2019-03-23 18:14:45,063: Key.space released
+2019-03-23 18:14:45,346: Key.backspace released
+2019-03-23 18:14:45,822: Key.shift released
+2019-03-23 18:14:45,833: 't' released
+2019-03-23 18:14:46,106: 'e' released
+2019-03-23 18:14:46,466: 'c' released
+2019-03-23 18:14:46,606: 'l' released
+2019-03-23 18:14:46,775: 'a' released
+2019-03-23 18:14:46,898: 'd' released
+2019-03-23 18:14:47,009: 'o' released
+2019-03-23 18:14:47,178: Key.space released
+2019-03-23 18:14:47,349: '=' released
+2019-03-23 18:14:47,402: Key.shift released
+2019-03-23 18:14:47,468: Key.space released
+2019-03-23 18:14:47,656: '1' released
+2019-03-23 18:14:48,789: 's' released
+2019-03-23 18:14:49,254: Key.ctrl released
+2019-03-23 18:14:51,662: 's' released
+2019-03-23 18:14:52,025: Key.ctrl released
+2019-03-23 18:14:57,912: Key.right released
+2019-03-23 18:14:58,326: 'g' released
+2019-03-23 18:14:58,575: 'l' released
+2019-03-23 18:14:58,735: 'o' released
+2019-03-23 18:14:58,924: 'b' released
+2019-03-23 18:14:59,152: 'a' released
+2019-03-23 18:14:59,280: 'l' released
+2019-03-23 18:14:59,829: Key.space released
+2019-03-23 18:15:02,605: Key.backspace released
+2019-03-23 18:15:02,771: Key.backspace released
+2019-03-23 18:15:02,924: Key.backspace released
+2019-03-23 18:15:03,096: Key.backspace released
+2019-03-23 18:15:03,777: Key.enter released
+2019-03-23 18:15:04,519: 'c' released
+2019-03-23 18:15:04,645: 'o' released
+2019-03-23 18:15:04,812: 'n' released
+2019-03-23 18:15:05,007: 't' released
+2019-03-23 18:15:05,100: 'a' released
+2019-03-23 18:15:05,272: 'd' released
+2019-03-23 18:15:05,393: 'o' released
+2019-03-23 18:15:05,493: 'r' released
+2019-03-23 18:15:05,881: Key.shift released
+2019-03-23 18:15:05,892: 'c' released
+2019-03-23 18:15:06,657: 'l' released
+2019-03-23 18:15:06,726: 'i' released
+2019-03-23 18:15:07,284: 'c' released
+2019-03-23 18:15:07,318: 'k' released
+2019-03-23 18:15:08,316: Key.space released
+2019-03-23 18:15:08,639: '=' released
+2019-03-23 18:15:08,673: Key.shift released
+2019-03-23 18:15:08,742: Key.space released
+2019-03-23 18:15:09,033: '1' released
+2019-03-23 18:15:09,709: 's' released
+2019-03-23 18:15:09,956: Key.ctrl released
+2019-03-23 18:16:56,348: Mouse clicked at (1175, 939) with Button.left
+2019-03-23 18:17:00,457: Mouse clicked at (530, 92) with Button.left
+2019-03-23 18:17:04,811: Mouse clicked at (983, 426) with Button.left
+2019-03-23 18:17:08,927: Mouse clicked at (964, 368) with Button.left
+2019-03-23 18:17:12,781: Mouse clicked at (638, 101) with Button.left
+2019-03-23 18:17:13,853: Mouse clicked at (687, 923) with Button.left
+2019-03-23 18:17:18,200: 'a' released
+2019-03-23 18:17:19,050: 's' released
+2019-03-23 18:17:19,117: 'd' released
+2019-03-23 18:17:19,597: 'x' released
+2019-03-23 18:17:19,860: 'x' released
+2019-03-23 18:17:19,959: 'c' released
+2019-03-23 18:17:20,052: 'x' released
+2019-03-23 18:17:20,137: 'c' released
+2019-03-23 18:17:20,234: 'x' released
+2019-03-23 18:17:20,313: 'c' released
+2019-03-23 18:17:20,396: 'x' released
+2019-03-23 18:17:20,487: 'c' released
+2019-03-23 18:17:21,485: Key.esc released
+2019-03-23 18:17:21,809: Key.esc released
+2019-03-23 18:17:22,153: Key.esc released
+2019-03-23 18:17:26,214: Mouse clicked at (855, 944) with Button.left
+2019-03-23 18:17:26,636: 'd' released
+2019-03-23 18:17:26,949: 'c' released
+2019-03-23 18:17:27,560: 'c' released
+2019-03-23 18:17:27,683: 'x' released
+2019-03-23 18:17:27,738: 'c' released
+2019-03-23 18:17:28,507: Mouse clicked at (855, 944) with Button.right
+2019-03-23 18:17:29,087: Mouse clicked at (758, 928) with Button.left
+2019-03-23 18:17:29,480: Mouse clicked at (674, 924) with Button.left
+2019-03-23 18:17:30,091: Mouse clicked at (586, 924) with Button.left
+2019-03-23 18:17:30,409: Mouse clicked at (584, 922) with Button.left
+2019-03-23 18:17:30,598: Mouse clicked at (584, 922) with Button.left
+2019-03-23 18:17:30,799: Mouse clicked at (584, 922) with Button.left
+2019-03-23 18:24:46,644: Mouse clicked at (839, 106) with Button.left
+2019-03-23 18:24:49,088: 'a' released
+2019-03-23 18:24:50,318: 's' released
+2019-03-23 18:24:50,868: 'd' released
+2019-03-23 18:24:52,400: 'z' released
+2019-03-23 18:24:52,726: Key.ctrl released
+2019-03-23 18:24:53,349: Mouse clicked at (1041, 916) with Button.left
+2019-03-23 18:24:53,761: 'a' released
+2019-03-23 18:24:55,023: 'a' released
+2019-03-23 18:24:55,462: 's' released
+2019-03-23 18:24:55,684: 'd' released
+2019-03-23 18:24:56,000: 'w' released
+2019-03-23 18:24:56,232: 'q' released
+2019-03-23 18:24:56,811: Mouse clicked at (960, 937) with Button.left
+2019-03-23 18:24:57,138: Mouse clicked at (960, 937) with Button.left
+2019-03-23 18:24:57,524: Mouse clicked at (960, 937) with Button.right
+2019-03-23 18:24:58,811: Mouse clicked at (694, 905) with Button.left
+2019-03-23 18:27:39,583: Mouse clicked at (528, 79) with Button.left
+2019-03-23 18:27:40,344: Mouse clicked at (526, 99) with Button.left
+2019-03-23 18:27:42,218: Mouse clicked at (600, 1005) with Button.left
+2019-03-23 18:27:43,078: 'c' released
+2019-03-23 18:27:43,162: Key.ctrl released
+2019-03-23 18:27:44,374: 'C' released
+2019-03-23 18:27:44,396: Key.shift released
