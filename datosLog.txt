@@ -1,7 +1,0 @@
-Clicks=43
-Teclas=128
-Acciones=171
-fechaI=2019-03-23 18:12:47
-fechaF=2019-03-23 18:27:44
-tTotal=0:14:57
-pulsacionesSeg=0.19063545150501673
